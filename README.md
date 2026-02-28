@@ -13,7 +13,7 @@ This repository contains a Jupyter Notebook demonstrating **gradient descent** s
 - **Starting point**: m = -1, b = 1, learning rate α = 0.1
 
 - **Approach**:
-  - Manual calculations (shown as images or described in notebook)
+  - Manual calculations
   - Step-by-step Python implementation mirroring every manual step
   - No black-box functions — updates, predictions, errors, and gradients are computed explicitly
   - Visualization of parameter convergence (m & b) and error reduction (MSE)
@@ -33,9 +33,11 @@ This repository contains a Jupyter Notebook demonstrating **gradient descent** s
 
 1. Click the notebook file directly on GitHub — it renders code, markdown, outputs, and plots automatically.
 2. Or clone locally and open in VS Code / JupyterLab:
+```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 code .
+```
 text## Key Results (after 4 iterations)
 
 - Final parameters ≈ m = 1.3336, b ≈ 1.8968
