@@ -38,7 +38,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 code .
 ```
-text## Key Results (after 4 iterations)
+## Key Results (after 4 iterations)
 
 - Final parameters ≈ m = 1.3336, b ≈ 1.8968
 - Predictions close to targets: ≈ (3.23, 5.90) vs actual (3, 6)
